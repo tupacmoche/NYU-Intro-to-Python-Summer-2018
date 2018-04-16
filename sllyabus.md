@@ -2,6 +2,7 @@
 
 We'll be diving into the basics of learning how to code in python. By the time we finish class you will should be able to start writing code in Python on a regular basis.
 
+
 ## Wednesday June 6th
 6:30 PM to 9:30 PM
 
