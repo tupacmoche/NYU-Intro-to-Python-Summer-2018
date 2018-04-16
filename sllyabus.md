@@ -10,13 +10,11 @@ This is our first class, and we'll spend the majority of the class setting up fo
 - Introductions
 - Norms for the class
 - Class overview
-- Pair programming introduction
 - Git vs GitHub
 - GitHub set up
 - Forking
 - Markdown activity
 - Setting up our local environments
-- Our first program
 
 
 ## Wednesday June 13th
@@ -28,6 +26,8 @@ We'll get started writing code in python in this class and spend time in the com
 - Advice on how to learn how to code
 - Command line basics
 - Command line activity
+- Pair programming introduction
+- Our first program
 - How the internet works
 
 ## Wednesday June 20th
