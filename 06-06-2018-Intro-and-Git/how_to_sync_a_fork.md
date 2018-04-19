@@ -1,4 +1,6 @@
 # How to Sync a Fork
+We won't be covering this today, but it's commonly asked question.
+
 Use this code to stay current when the contents of the repository have changed.
 
 ```
