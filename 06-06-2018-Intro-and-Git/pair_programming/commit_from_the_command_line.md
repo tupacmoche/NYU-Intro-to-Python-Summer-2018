@@ -16,7 +16,7 @@ Where you cloned the repository, open up that folder and create a new file calle
 Inside the file type something like this
 ```
 # Hello!
-Hello world! I'm so stoked about this class  
+Hello world! I'm so stoked about this class.  
 ```
 
 ## Step 4: Add this back to GitHub
@@ -25,3 +25,6 @@ git add hello_world.md
 git commit -m "adding hello world file"
 git push
 ```
+
+## Think of what worked and what didn't work
+We'll be doing a debrief.
