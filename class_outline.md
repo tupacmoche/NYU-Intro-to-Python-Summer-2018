@@ -2,7 +2,6 @@
 
 We'll be diving into the basics of learning how to code in python. By the time we finish class you will should be able to start writing code in Python on a regular basis.
 
-
 ## Wednesday June 6th
 6:30 PM to 9:30 PM
 
@@ -11,25 +10,26 @@ This is our first class, and we'll spend the majority of the class setting up fo
 - Introductions
 - Norms for the class
 - Class overview
+- Git
 - Git vs GitHub
 - GitHub set up
 - Forking
 - Markdown activity
 - Setting up our local environments
+- Advice on how to learn how to code
 
 
 ## Wednesday June 13th
 6:30 PM to 9:30 PM
 
-We'll get started writing code in python in this class and spend time in the command line getting to know that interface.
+We'll get started writing code in python in this class and spend time in the command line getting to know that interface. We'll
 
 - Introduce homework assignment 1
-- Advice on how to learn how to code
 - Command line basics
 - Command line activity
 - Pair programming introduction
 - Our first program
-- How the internet works
+- Running our first program
 
 ## Wednesday June 20th
 6:30 - 9:30 PM
@@ -60,6 +60,7 @@ We'll focus on functions which are the building blocks of programs in python.
 We'll focus on lists and loops for this class. We'll spend some time live coding and end the class by writing a program together as a class.
 
 - Show and tell homework number 2 review
+- How the internet works
 - Lists and loops
 - Writing a program as a class
 - Pair programming
@@ -82,7 +83,9 @@ This class will focus on teaming up and pair programming on and we'll end class 
 We'll talk about tuples, dictionaries and sets. Review our homework assignments and set up to work together while programming in pairs.
 
 - Further environment set up
-- Data structures in Python
+- Tuples
+- Sets
+- Dictionaries
 - In class activity
 
 ## Wednesday August 1st
@@ -100,7 +103,7 @@ We'll be learning about the basis for data science work in Python. We will be ju
 ## Wednesday August 8th
 6:30 - 9:30 PM
 
-This class will focus on the basics of object oriented programming in python.
+This class will focus on the basics of object oriented programming in python and we'll also dive into testing our code as well.
 
 - Homework Review
 - Object Oriented Python
@@ -119,3 +122,10 @@ We're going to be working with live data and get started connecting to APIs.
 - Learn about APIs
 - Connect to APIs
 - Advice for the next class
+
+## Due Dates
+- Wednesday June 27th 6:30pm - Homework 1 Due
+- Wednesday July 11th 6:30pm - Homework 2 Due
+- Wednesday August 1st 6:30pm - Homework 3 Due
+- Wednesday August 8th 6:30pm - Homework 4 Due 
+- Wednesday August 15th 6:30pm - Text Based Games Due
