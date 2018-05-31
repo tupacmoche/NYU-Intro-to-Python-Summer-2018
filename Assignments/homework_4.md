@@ -5,7 +5,7 @@ Due Monday March 19th
 The goal of this assignment is to solve problems inside of a jupyter notebook and upload that notebook to a repository on GitHub.
 
 ## How to submit this assignment
-Create a repository called "Name - Homework 4" and please put the code from this assignment there and send me the link.
+Create a new repository called "Name - Homework 4" and please put the code from this assignment there and send me the link.
 
 ## Due Date
 This assignment is due March 19th
@@ -56,3 +56,5 @@ Create a tuple of many of the major tasks you have to complete for the day in th
 - sleep
 
 Create a program that goes through this tuple and tells the story of a typical day for you.
+
+***This assignment is due Wednesday August 8th 6:30pm***
