@@ -53,3 +53,6 @@ We'll be focusing on the command line and learning the basics of linux. Below ar
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 - [Linux Video Series](https://www.youtube.com/watch?v=sYwr0HMudRg&list=PLlpCYzlw8-CagGcorCV2DCdnkS9IAU9Ab)
 - [Codecademy's Command Line Class](https://www.codecademy.com/learn/learn-the-command-line)
+- [Automate the Boring Stuff Intro](https://automatetheboringstuff.com/chapter0/)
+- [Getting Started with Python](http://thepythonguru.com/getting-started-with-python/)
+- [First Program](https://learnpythonthehardway.org/python3/ex1.html)
