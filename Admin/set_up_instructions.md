@@ -1,7 +1,7 @@
 # Set Up Instructions
 
 ## Step 1: Start with these directions
-Please follow the operating system based [directions from Learn Python the Hard Way](https://learnpythonthehardway.org/python3/ex0.html) and download Python and Atom.
+Please follow the operating system based [directions from Learn Python the Hard Way](https://learnpythonthehardway.org/python3/ex0.html) to download Python and Atom.
 
 ## Step 2: Verify Set Up
 If you type the following into your terminal or PowerShell:
