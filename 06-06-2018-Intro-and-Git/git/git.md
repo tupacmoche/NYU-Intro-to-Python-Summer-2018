@@ -6,7 +6,7 @@ You will need to make sure you download [git](https://git-scm.com/).
 ## Git
 Did you ever wish you could go back in time. With git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
 
-This is a tool we are going to us daily as developers. This was why we introduced this concept on the very first day so that we already have some familiarity with the subject.
+This is a tool we are going to us daily as developers. This was we introduce this concept on the very first day so that we already have some familiarity with the subject.
 
 ## GitHub
 GitHub is a social wrapper for git. This allows us to fork and make pull requests as we did in the first class. We can therefore also host our code on GitHub.
@@ -29,8 +29,9 @@ Forking gives us our own version of repository that we can make changes and it c
 ```
 git clone <new repository>
 ```
-You will likely be prompted to enter in your GitHub username and password. If you have 2 factor auth turned on which you should (two factor all the things), [If you are using HTTPS Git, instead of entering your password, enter a personal access token. These can be created by going to your
+You will likely be prompted to enter in your GitHub username and password. If you have 2 factor auth turned on which you should (two factor all the things). If you are using HTTPS Git, instead of entering your password, enter a personal access token. These can be created by going to your
 [personal access tokens page](https://github.com/settings/tokens)
+
 3. Open this directory in an atom and write code!
 ```
 atom .
@@ -40,12 +41,13 @@ atom .
 git status
 git pull
 ```
-5.  When you are reached a stopping point. Add your files to the stage area.
+5.  When you are reached a stopping point. Add your files to the staging area.
 ```
 git status
 git add name_of_file.py
 ```
-If you want to commit all the files - be very careful with this you can use the following syntax
+If you want to commit all the files you can use the following syntax. Be very careful with this.
+
 ```
 git add .
 ```
@@ -63,4 +65,5 @@ git push
 ## Resources
 - [Create A Repo](https://help.github.com/articles/create-a-repo/)
 - [Cheatsheet](https://git.generalassemb.ly/ga-wdi-lessons/git-intro/blob/master/cheatsheet.md)
-- [How to undo almost anything with git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+- [Git Flow](https://guides.github.com/introduction/flow/)
+- [How to Undo Almost Anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
