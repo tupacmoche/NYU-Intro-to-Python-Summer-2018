@@ -4,7 +4,7 @@
 You will need to make sure you download [git](https://git-scm.com/).
 
 ## Git
-Did you ever wish you could go back in time. With git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
+Did you ever wish you could go back in time. With Git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
 
 This is a tool we are going to us daily as developers. This was why we introduced this concept on the very first day so that we already have some familiarity with the subject.
 
@@ -63,4 +63,4 @@ git push
 ## Resources
 - [Create A Repo](https://help.github.com/articles/create-a-repo/)
 - [Cheatsheet](https://git.generalassemb.ly/ga-wdi-lessons/git-intro/blob/master/cheatsheet.md)
-- [How to undo almost anything with git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+- [How to undo almost anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
