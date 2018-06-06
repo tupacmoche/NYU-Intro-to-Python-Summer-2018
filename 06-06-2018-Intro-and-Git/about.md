@@ -8,35 +8,35 @@ Middle school dance rules apply, Macs sit with Macs and PCs sit with PCs.
 Slides for the class are found [here](http://jessicagarson.com/NYU-Intro-to-Python-06-06-2018).
 
 ## Agenda
-### Welcome
+_Welcome_
 6:30 - 6:35
-### Introductions
+_Introductions_
 6:35 - 6:45
-### A Note on Teaching Style and My Story
+_A Note on Teaching Style and My Story_
 6:45 - 6:50
-### Norms for the Class Activity
+_Norms for the Class Activity_
 6:50 - 7:00
-### Walkthrough the Syllabus
+_Walkthrough the Syllabus_
 7:00 - 7:20
-### Git
+_Git_
 7:20 - 7:40
-### Git vs GitHub
+_Git vs GitHub_
 7:40 - 8:00
-### Setting Up Our GitHub Accounts
+_Setting Up Our GitHub Accounts_
 8:00 - 8:10
-### Forking the Repo
+_Forking the Repo_
 8:10 - 8:20
-### Markdown Activity and Your First Pull Request
+_Markdown Activity and Your First Pull Request_
 8:20 - 8:30
-### Making Sure Your Environment is Set Up
+_Making Sure Your Environment is Set Up_
 8:30 - 8:45
-### Pair Programming
+_Pair Programming_
 8:45 - 9:10
-### Debrief
+_Debrief_
 9:10 - 9:15  
-### Advice for Learning How to Code
+_Advice for Learning How to Code_
 9:15 - 9:25
-### How to Prep for The Next Class
+_How to Prep for The Next Class_
 9:25 - 9:30
 
 ## What We Will Accomplish By the End of Class
