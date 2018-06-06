@@ -1,10 +1,10 @@
 # Git and GitHub
 
-## A note for windows users
-You will need to make sure you download [git](https://git-scm.com/).
+## A note for the PC crew
+You will need to make sure you download [Git](https://git-scm.com/). Check out these directions for [Windows Users](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-windows)
 
 ## Git
-Did you ever wish you could go back in time. With git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
+Did you ever wish you could go back in time. With Git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
 
 This is a tool we are going to us daily as developers. This was we introduce this concept on the very first day so that we already have some familiarity with the subject.
 
@@ -65,5 +65,9 @@ git push
 ## Resources
 - [Create A Repo](https://help.github.com/articles/create-a-repo/)
 - [Cheatsheet](https://git.generalassemb.ly/ga-wdi-lessons/git-intro/blob/master/cheatsheet.md)
+<<<<<<< HEAD
 - [Git Flow](https://guides.github.com/introduction/flow/)
 - [How to Undo Almost Anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+=======
+- [How to undo almost anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
+>>>>>>> 630176266cc1a2d6178f54cdb2f4fc4a09aa8c77
