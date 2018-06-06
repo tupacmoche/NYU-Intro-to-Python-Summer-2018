@@ -65,9 +65,6 @@ git push
 ## Resources
 - [Create A Repo](https://help.github.com/articles/create-a-repo/)
 - [Cheatsheet](https://git.generalassemb.ly/ga-wdi-lessons/git-intro/blob/master/cheatsheet.md)
-<<<<<<< HEAD
 - [Git Flow](https://guides.github.com/introduction/flow/)
 - [How to Undo Almost Anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
-=======
 - [How to undo almost anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
->>>>>>> 630176266cc1a2d6178f54cdb2f4fc4a09aa8c77

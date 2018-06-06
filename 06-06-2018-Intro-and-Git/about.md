@@ -48,7 +48,8 @@ Slides for the class are found [here](http://jessicagarson.com/NYU-Intro-to-Pyth
 - Get to know each other
 
 ## How to Prep for the Next Class
-We'll be focusing on the command line and learning the basics of linux. Below are some recommended resources for you to check out before class next week.
+We'll be focusing on the command line and learning the basics of the command line. Below are some recommended resources for you to check out before class next week.
+
 - [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html)
 - [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 - [Linux Video Series](https://www.youtube.com/watch?v=sYwr0HMudRg&list=PLlpCYzlw8-CagGcorCV2DCdnkS9IAU9Ab)

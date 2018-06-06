@@ -7,15 +7,11 @@ In GitHub, create a new repository called pair-programming-June-6th
 ## Step 2: Clone the Repository
 In GitHub, go to the repository you just created and cut and paste the HTTPS link for the repository:
 ```
-<<<<<<< HEAD
 git clone https://github.com/username/pair-programming-June-6th.git
-=======
-git clone pair-programming-June-6th 
 ```
-From there you will need to change directories into the repository: 
+From there you will need to change directories into the repository:
 ```
 cd pair-programming-June-6th
->>>>>>> 630176266cc1a2d6178f54cdb2f4fc4a09aa8c77
 ```
 
 ## Step 3: Open up the Repository in Atom
