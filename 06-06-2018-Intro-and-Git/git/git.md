@@ -1,7 +1,7 @@
 # Git and GitHub
 
-## A note for windows users
-You will need to make sure you download [git](https://git-scm.com/).
+## A note for the PC crew
+You will need to make sure you download [Git](https://git-scm.com/). Check out these directions for [Windows Users](https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-windows)
 
 ## Git
 Did you ever wish you could go back in time. With Git you can. Git is a version control tool. Git keeps track of changes across a collection of files for us. When we use Git, we can see what changes we made and seamlessly merge them with changes from our coworkers.
@@ -40,7 +40,7 @@ atom .
 git status
 git pull
 ```
-5.  When you are reached a stopping point. Add your files to the stage area.
+5.  When you are reached a stopping point. Add your files to the staging area.
 ```
 git status
 git add name_of_file.py
