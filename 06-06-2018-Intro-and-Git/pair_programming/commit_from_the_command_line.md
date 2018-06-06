@@ -7,7 +7,11 @@ In GitHub, create a new repository called pair-programming-June-6th
 ## Step 2: Clone the Repository
 In GitHub, go to the repository you just created:
 ```
-git clone <new repository>
+git clone pair-programming-June-6th 
+```
+From there you will need to change directories into the repository: 
+```
+cd pair-programming-June-6th
 ```
 
 ## Step 3: Open up the Repository in Atom
@@ -23,7 +27,9 @@ Hello world! I'm so stoked about this class.
 You will likely get prompted to type in your GitHub username and password.
 ```
 git add hello_world.md
+git status
 git commit -m "adding hello world file"
+git status
 git push
 ```
 
