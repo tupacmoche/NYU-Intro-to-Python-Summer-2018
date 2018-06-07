@@ -54,12 +54,10 @@ Here are some resources to help you write code in markdown:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Step 6 - Commit Your file
-Scroll down to the bottom of the page and fill out the prompt to commit the file. Be sure to click on the green button that says `Comit new file`.
-
-![Commit the File](https://res.cloudinary.com/dkibchpur/image/upload/v1528393987/Screen_Shot_2018-06-07_at_1.52.13_PM.png)
+Scroll down to the bottom of the page and fill out the prompt to commit the file. Be sure to click on the green button that says `Commit new file`.
 
 ## What is a Pull Request
-A pull request allows us to ask the owner of there repository if it's okay to make changes to their repository. I like to think of this a form you fill out to request to make changes to their code. 
+A pull request allows us to ask the owner of there repository if it's okay to make changes to their repository. I like to think of this a form you fill out to request to make changes to their code.
 
 ## Step 7 - Submit a Pull Request
 Once your file is committed you will directed back to the main page of your repository. Click on the second tab that says `pull requests`.
