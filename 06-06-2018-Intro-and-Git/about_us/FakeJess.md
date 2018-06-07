@@ -1,4 +1,4 @@
-# Jess Garson
+# Fake Jess Garson
 I am a developer that just moved from Washington, DC. My interests include making crazy projects with code, planning hackathons, punk rock, and teaching others how to code.
 
 ## Motivation for Being Part of the Class
