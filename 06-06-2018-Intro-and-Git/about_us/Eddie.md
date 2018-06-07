@@ -5,7 +5,7 @@ I work in risk management at a hedge fund in midtown. I graduated from Boston Co
 I want to see how I can apply python to my job and automate processes that are required every day.
 
 ## Area of Interest
-All sports but mainly hockey and baseball.
+All sports but mainly **hockey** and baseball.
 
 ## Fun Facts
 I have read all of the Game of Thrones books twice.
