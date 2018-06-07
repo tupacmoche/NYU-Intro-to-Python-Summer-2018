@@ -67,4 +67,3 @@ git push
 - [Cheatsheet](https://git.generalassemb.ly/ga-wdi-lessons/git-intro/blob/master/cheatsheet.md)
 - [Git Flow](https://guides.github.com/introduction/flow/)
 - [How to Undo Almost Anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
-- [How to undo almost anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
