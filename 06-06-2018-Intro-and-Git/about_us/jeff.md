@@ -9,7 +9,7 @@ I would like to build a Python foundation so that I can better communicate with 
 I like finding correlations and meaning in data.
 
 ## Fun Facts
-I am an amazing photorapher.
+I am an amazing photographer.
 
 ## Favorite Movie
 Interstellar.
