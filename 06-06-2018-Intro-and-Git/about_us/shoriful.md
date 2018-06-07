@@ -1,5 +1,5 @@
 # Shoriful
-I am a student at NYU studying data analytics and visualization. I'm interested in the ethics of data science and hope to work in this area after graduating after the fall semster.
+I am a student at NYU studying data analytics and visualization. I'm interested in the ethics of data science and hope to work in this area upon graduating after the fall semster.
 
 ## Motivation for Being Part of the Class
 I want to know python like it's second nature to me.
