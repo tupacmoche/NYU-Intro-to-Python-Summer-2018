@@ -16,7 +16,6 @@ This is our first class, and we'll spend the majority of the class setting up fo
 - Forking
 - Markdown activity
 - Setting up our local environments
-- Advice on how to learn how to code
 
 
 ## Wednesday June 13th
@@ -24,10 +23,13 @@ This is our first class, and we'll spend the majority of the class setting up fo
 
 We'll get started writing code in python in this class and spend time in the command line getting to know that interface. We'll
 
+- Advice on Learning How to Code
 - Introduce homework assignment 1
+- What is Programming?
 - Command line basics
 - Command line activity
 - Pair programming introduction
+- What is Python?
 - Our first program
 - Running our first program
 
@@ -127,5 +129,5 @@ We're going to be working with live data and get started connecting to APIs.
 - Wednesday June 27th 6:30pm - Homework 1 Due
 - Wednesday July 11th 6:30pm - Homework 2 Due
 - Wednesday August 1st 6:30pm - Homework 3 Due
-- Wednesday August 8th 6:30pm - Homework 4 Due 
+- Wednesday August 8th 6:30pm - Homework 4 Due
 - Wednesday August 15th 6:30pm - Text Based Games Due
